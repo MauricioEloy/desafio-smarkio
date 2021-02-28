@@ -2,9 +2,16 @@
 
 # <span style="color:blue"> Desafio Prático Ciência de Dados</span>
 
-**Material Produzido por Mauricio Eloy**<br>
+**Mauricio Eloy**<br>
 
 ---
+###### Contatos:
+*email:* profmauricioeloy@gmail.com | mauricioeloy@usp.br
+*LindedIn*: https://www.linkedin.com/in/mauricio-eloy/
+
+
+---
+
 
 ## <span style="color:blue">Solução Inicial</span>
 ### <span style="color:blue">Passo-a-passo</span>
@@ -21,10 +28,16 @@ Caso você opte por reproduzir a solução localmente eu sugiro que instale a di
 
 Instalando esta distribuição você trará para o seu ambiente grande parte das bibliotecas utilizadas nesta solução.
 
+---
 ## <span style="color:blue">Próximos Passos</span>
 
 ### <span style="color:blue">Análise_ML</span>
 
+1. Entender com os envolvidos no problema se na frase ```true_class - A classe verdadeira (se nula, assumir o pred_class)```, tanto ```NaN``` quanto $0$ são considerados nulos;
+
+2. Dependendo da resposta do item anterior a abordagem utilizada deve ser reestruturada.
+
+OBS: um dos pontos falhos nesta solução inicial é a a utilização de variáveis de vazamento para o treinamento do modelo.
 
 ### <span style="color:blue">NLP</span>
 
