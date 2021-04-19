@@ -1,12 +1,17 @@
 [![author](https://img.shields.io/badge/author-MauricioEloy-red.svg)](https://www.linkedin.com/in/mauricio-eloy) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/MauricioEloy/Portifolio/issues)
 
-# <span style="color:blue"> Desafio Prático Ciência de Dados</span>
+<p align="center">
+<img src="LOGO.png" >
+</p>
+
+# <span style="color:blue">Ciência de Dados</span>
 
 **Mauricio Eloy**<br>
 
 ---
 ###### Contatos:
 *email:* profmauricioeloy@gmail.com | mauricioeloy@usp.br
+
 *LindedIn*: https://www.linkedin.com/in/mauricio-eloy/
 
 
@@ -22,7 +27,7 @@ Utilizou-se da linguagem de programação Python como kernel no Jupyter Notebook
 
 Foi utilizado o ambiente local para a execução dos códigos, mas você pode reproduzir na nuvem se preferir, uma opção é o Google Colaboratory.
 
-Independente do ambiente que escolher você precisará da a versão 3.8.5 do Python e das bibliotecas utilizadas instaladas.
+Independente do ambiente que escolher você precisará da a versão 3.8.5 do Python e das bibliotecas utilizadas na solução instaladas.
 
 Caso você opte por reproduzir a solução localmente eu sugiro que instale a distribuição Anaconda Python (https://www.anaconda.com/products/individual).
 
